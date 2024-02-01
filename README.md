@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolai</h1>
-<h3 align="center">A diligent and self-motivated data scientist</h3>
+<h3 align="center">A diligent and self-motivated Machine Learning Specialist</h3>
 
-Hi! I'm Nikolai (or just Niko), a junior data scientist with experience more than 15 technical projects. My skills include neural networks, supervised learning, business analytics, data visualization and storytelling, Python and SQL. 
+Hi! I'm Nikolai (or just Niko), a junior Machine Learning Specialist with experience in more than 15 technical projects. My skills include supervised learning, data analysis, neural networks, business analytics, data visualization and storytelling, Python, and SQL. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
