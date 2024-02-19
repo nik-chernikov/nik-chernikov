@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolai</h1>
 <h3 align="center">A diligent and self-motivated Machine Learning Specialist</h3>
 
-I'm a Machine Learning Specialist with experience in more than 10 technical projects. I specialize in and use the following tools: Python, pandas, Jupyter Notebook, scikit-learn, NumPy, Matplotlib, SciPy, LightGBM, PyTorch, PySpark, SQL.
+I'm a Machine Learning Specialist with experience in more than 10 projects. I specialize in and use the following tools: Python, pandas, Jupyter Notebook, scikit-learn, NumPy, Matplotlib, SciPy, LightGBM, PyTorch, PySpark, SQL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
