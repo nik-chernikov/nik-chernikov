@@ -3,6 +3,8 @@
 
 I'm a Machine Learning Specialist with experience in more than 10 projects. I specialize in and use the following tools: Python, pandas, Jupyter Notebook, scikit-learn, NumPy, Matplotlib, SciPy, LightGBM, PyTorch, PySpark, SQL.
 
+[My portfolio](https://github.com/nik-chernikov/nik-chernikov/tree/899d53d287203c67e91a7ed2803978142fb5e416/Portfolio)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nik-chernikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nik-chernikov" height="30" width="40" /></a>
