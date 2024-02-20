@@ -3,7 +3,7 @@
 
 I'm a Machine Learning Specialist with experience in more than 10 projects. I specialize in and use the following tools: Python, pandas, Jupyter Notebook, scikit-learn, NumPy, Matplotlib, SciPy, LightGBM, PyTorch, PySpark, SQL.
 
-### [My portfolio (only in Russian currently)](https://github.com/nik-chernikov/nik-chernikov/tree/899d53d287203c67e91a7ed2803978142fb5e416/Portfolio)
+### [My portfolio (only in Russian for now)](https://github.com/nik-chernikov/nik-chernikov/tree/899d53d287203c67e91a7ed2803978142fb5e416/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
