@@ -1,11 +1,13 @@
-
-# Практика SQL и визуализация
+# Практика SQL
 
 ### Использованные инструменты
-PostgreSQL, pandas, NumPy, Matplotlib, seaborn, SQLAlchemy
+
+PostgreSQL, SQLAlchemy, pandas, Matplotlib, NumPy, seaborn
 
 ### Ключевые особенности
-SQL, оконные функции, визуализация результатов запроса, тепловая карта.
+
+Оконные функции, Retention Rate, Heat map
 
 ### Описание задачи
-Решение практических задач по SQL с использованием оконных функций.
+
+Исследование базы данных Stack Overflow за первые месяцы существования проекта
