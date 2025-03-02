@@ -3,7 +3,7 @@
 
 I'm a Data Scientist with experience in 19 projects. I specialize in and use the following tools: Python, pandas, scikit-learn, Matplotlib, NumPy, PyTorch, TensorFlow, Keras, SciPy, LightGBM, PySpark, SQL.
 
-### [My portfolio](https://github.com/nik-chernikov/nik-chernikov/tree/main/Portfolio)
+### [My portfolio (in Russian)](https://github.com/nik-chernikov/nik-chernikov/tree/main/Portfolio)
 
 ### 🌐 Socials:  
 <p align="left">
