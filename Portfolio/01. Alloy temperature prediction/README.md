@@ -1,3 +1,31 @@
+# Alloy temperature prediction
+
+### Tools used
+
+PyTorch, LightGBM, SQLAlchemy, pandas, Matplotlib, scikit-learn
+
+### Key features
+
+Machine learning, gradient boosting, Multilayer Perceptron
+
+### Task description
+
+To optimize production costs, the Steel Bird metallurgical plant decided to reduce electricity consumption during the steel processing stage. To achieve this, the plant must control the alloy temperature. Your task is to build a model that will predict it. The customer wants to use the developed model to simulate the technological process. Study it before generating new features.
+
+The target feature is the final temperature of the batch.
+
+### General conclusion
+
+We conducted a research analysis of the data, generated new features, combined the data, and investigated the correlation in the data. 
+
+After that, we trained several models: RandomForestRegressor, SGD, LightGBM, and the Multilayer Perceptron neural network. 
+
+The RandomForestRegressor model performed best. After testing the model on a test sample, we obtained a target MAE value of 6.5492. This is lower than the required MAE value of 6.8.
+
+Finally, we conducted a study of the importance of features in the model and highlighted that the features StartTemperature, HeatTime, Wire 1, and Bulk 6 have a significant impact on the model's predictions.
+
+
+---
 # Предсказание температуры сплава
 
 ### Использованные инструменты
