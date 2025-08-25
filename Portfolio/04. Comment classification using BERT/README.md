@@ -1,4 +1,33 @@
-  
+# Comment Classification with BERT
+
+### Tools Used
+
+PyTorch, BERT, CUDA, pandas, NumPy, Matplotlib, scikit-learn
+
+### Key Features
+
+Natural Language Processing (NLP), Text Classification
+
+### Task Description
+
+The Wikishop online store is launching a new service. Now, users can edit and supplement product descriptions, similar to wiki communities. That is, customers offer their edits and comment on others' changes. The store needs a tool that will search for toxic comments and send them for moderation.
+
+Train a model to classify comments as either positive or negative. You have a dataset with edit toxicity markup.
+
+Build a model with an F1 quality metric value of at least 0.75.
+
+### General Conclusion
+
+We have a dataset of 160,000 English-language tweets at our disposal. We needed to train a model that would determine the toxicity of a tweet and have an F1-score metric value of at least 0.75.
+
+We prepared a sample and tokenized the text of the tweets. Then, using the unitary/toxic-BERT model, we created embeddings from the tokens.
+
+We trained 3 different models using GridSearchCV: logistic regression, random forest, and LightGBM. The random forest model showed the best result.
+
+Having tested the random forest model on the test sample, we obtained an F1-score metric value of 0.96183. This is higher than the required minimum result of 0.75. The project goal is achieved.
+
+
+---  
 # Классификация комментариев с BERT
 
 ### Использованные инструменты
