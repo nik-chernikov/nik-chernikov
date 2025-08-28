@@ -1,4 +1,32 @@
+# Predicting the temperature of a star
 
+### Tools used
+PyTorch, category_encoders, pandas, Matplotlib, NumPy.
+
+### Key features
+Fully connected feedforward neural networks (FNN).
+
+### Task description
+We received a task from the Sky in the Palm observatory: to figure out how to use a neural network to determine the surface temperature of discovered stars. Scientists usually use the following methods to calculate the temperature:
+
+- Wien's displacement law.
+- Stefan-Boltzmann law.
+- Spectral analysis.
+
+Each of them has its pros and cons. The observatory wants to implement machine learning technologies to predict the temperature of stars, hoping that this method will be the most accurate and convenient. The observatory's database contains characteristics of 240 stars that have already been studied.
+
+The target metric is RMSE. It should not exceed 4500.
+
+### General conclusion
+Data preprocessing has been performed. Several neural networks have been created and trained; the optimal number of layers and neurons has been selected. The selected neural network has been trained with various combinations of DropOut and BatchNorm. Such hyperparameters as learning rate and batch size have been selected. An acceptable result of the control metric has been obtained.
+
+### What can be improved
+1. The dataset has a strong imbalance. You can try to synthesize the missing classes using libraries such as SMOTE.
+
+2. Use the Scorch library to select optimal hyperparameters.
+
+
+---
 # Прогнозирование температуры звезды
 
 ### Использованные инструменты
