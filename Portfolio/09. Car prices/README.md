@@ -1,4 +1,31 @@
+# Determining the price of cars
 
+### Tools used
+LightGBM, scikit-learn, category_encoders, pandas, NumPy, Matplotlib.
+
+### Key features
+Gradient boosting.
+
+### Task description
+The used car sales service "Ne bit, ne krashen" is developing an app to attract new customers. It enables users to quickly determine the market value of their car. You have access to historical data: technical specifications, configurations, and car prices. You need to build a model to determine the value.
+
+The customer cares about:
+
+- Prediction quality. The RMSE metric should be less than 2500;
+- Prediction speed;
+- Training time.
+
+### General conclusion
+1. Data preprocessing was completed. Anomalies, outliers, and incorrect values were processed.
+2. The linear regression and LightGBM models were trained using cross-validation. The optimal hyperparameters for LightGBM were found using GridSearchCV.
+3. The trained models were compared in terms of RMSE, training speed, and prediction speed. The LightGBM model trains and predicts more slowly but shows better results in terms of RMSE.
+    1. The best model was compared with a constant model.
+    2. The best model was tested on a test sample.
+
+The result is a model that meets the customer's criteria and is ready for implementation.
+
+
+---
 # Определение стоимости автомобилей
 
 ### Использованные инструменты
