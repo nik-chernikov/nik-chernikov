@@ -1,7 +1,7 @@
 <h1 align="center">Nikolai Chernikov</h1>
 <h3 align="center">Technical Support Engineer (L2) · Fintech & Payments · Incident Diagnostics</h3>
 
-L2 support engineer with ~3 years in an international payments product.
+L2 support engineer with ~3 years of experience in an international payments product.
 I diagnose production incidents using logs, product analytics and SQL,
 write reproducible bug reports for developers, and improve support
 workflows and documentation. Based in Bishkek (UTC+6), working remotely.
